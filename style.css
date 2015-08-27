@@ -36,7 +36,9 @@ img, video, audio, iframe, table, form {
 body {
     background-image: url("images/luxury-wallpaper.jpg");
     background-color: #AAB5DC;
-    background-size:cover
+    background-size:cover;
+    padding: 30px;
+    margin: 10px;
 }
 
 #fancy-title {
@@ -44,6 +46,7 @@ body {
   font-size: 40px;
   margin:0;
   text-align: center;
+  margin-top: 20px
 }
 
 .fancy-question {
@@ -51,6 +54,7 @@ body {
   color: #AA7F55;
   font-size: 35px;
   font-weight: bold;
+  margin-top: 25px
 }
 
 .fancy-answer {
